@@ -2,7 +2,7 @@
 node_modules
 /dist
 
-flags/*
+/flags/*.png
 
 # local env files
 .env.local
